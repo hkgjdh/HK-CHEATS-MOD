@@ -74,8 +74,8 @@
     },
      {
       "name": "PAIDLOADER",
-      "displayName": "PAID LOADER",
-      "apiUrl": "https://api.xvipserver.site/dunecheat/connect",
+      "displayName": "PAID MOD",
+      "apiUrl": "https://auth.apiauth.site/PaidLoader/connect",
       "pinnedKey": "",
       "ui1": false,
       "ui2": false,
