@@ -27,7 +27,7 @@
      {
       "name": "Overkill",
       "displayName": "Overkill Mod",
-      "apiUrl": "https://overkill.site/vip/connect",
+      "apiUrl": "https://api.overkill.site/vip1/connect",
       "pinnedKey": "",
       "ui1": false,
       "ui2": false,
