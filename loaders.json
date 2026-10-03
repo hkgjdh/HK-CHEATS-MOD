@@ -1,7 +1,7 @@
 {
   "loaders": [
     {
-      "name": "DUNE_CHEATS",
+      "name": "DUNE_CHEATSa",
       "displayName": "DUNE LOADER",
       "apiUrl": "https://api.xvipserver.site/dunecheat/connect",
       "pinnedKey": "",
@@ -25,7 +25,7 @@
       "expireSize": 13
     },
      {
-      "name": "BRUTAL",
+      "name": "BRUTALa",
       "displayName": "Brutal Mod 4.6",
       "apiUrl": "https://api.ezkeys.online/Nayak/connect",
       "pinnedKey": "",
@@ -49,7 +49,7 @@
       "expireSize": 13
     },
     {
-      "name": "CTXCLAN",
+      "name": "CTXCLANa",
       "displayName": "CXT CLAN MOD",
       "apiUrl": "https://api.xvipserver.site/dunecheat/connect",
       "pinnedKey": "",
@@ -73,7 +73,7 @@
       "expireSize": 13
     },
      {
-      "name": "PAIDLOADER",
+      "name": "PAIDLOADERa",
       "displayName": "PAID MOD",
       "apiUrl": "https://auth.apiauth.site/PaidLoader/connect",
       "pinnedKey": "",
@@ -97,7 +97,7 @@
       "expireSize": 13
     },
       {
-      "name": "TAPATAP",
+      "name": "TAPATaAP",
       "displayName": "INFINITE MOD",
       "apiUrl": "https://infinite.kuropanels.in/connect",
       "pinnedKey": "",
@@ -121,7 +121,7 @@
       "expireSize": 13
     },
      {
-      "name": "XSILENT",
+      "name": "XaSILENT",
       "displayName": "- XSILENT PREMIUM -",
       "apiUrl": "https://api.xsilent.shop/XSILENTpro/connect",
       "pinnedKey": "",
